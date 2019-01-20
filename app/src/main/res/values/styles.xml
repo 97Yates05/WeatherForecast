@@ -4,8 +4,28 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimaryDark">#8fd3f4</item>
+        <item name="colorAccent">#8fd3f4</item>
+    </style>
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@android:color/holo_red_dark</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+        <item name="colorButtonNormal">@android:color/white</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+    <style name="MyDialog" parent="android:style/Theme.Dialog">
+
+        <item name="android:windowBackground">@drawable/shape_1</item>
+
+        <item name="android:windowNoTitle">true</item>
+
+        <item name="android:windowFrame">@null</item>
+
+        <item name="android:windowIsFloating">true</item>
+
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:innerRadius">16dp</item>
+
     </style>
 
 </resources>
