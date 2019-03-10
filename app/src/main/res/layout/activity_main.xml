@@ -52,28 +52,6 @@
 
             </android.support.v4.view.ViewPager>
         </com.scwang.smartrefresh.layout.SmartRefreshLayout>
-
-
-        <!--<LinearLayout-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="30dp"-->
-        <!--android:orientation="vertical">-->
-
-        <!--<View-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="1dp"-->
-        <!--android:background="#4dcccccc" />-->
-
-        <!--<TextView-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="match_parent"-->
-        <!--android:layout_gravity="center"-->
-        <!--android:gravity="center"-->
-        <!--android:text="数据来源:中国天气网 和风天气"-->
-        <!--android:textColor="#fff" />-->
-        <!--</LinearLayout>-->
-
-
     </LinearLayout>
 
     <android.support.design.widget.NavigationView
